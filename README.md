@@ -1,2 +1,0 @@
-# shoping
-WifiPass
